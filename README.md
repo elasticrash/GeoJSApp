@@ -3,7 +3,8 @@ A first approach in using openlayers 3 to provide and generic interface for geos
 
 All you need to do to get it working is:
 
-changing the Config.js File by adding your geoserver address
-Running the GeoJsApp.js proxy server in node.js 
+1. Changing the Config.js File by adding your geoserver address
+2. Changing the GeoJsApp.js File by adding your geoserver address
+3. Running the GeoJsApp.js proxy server in node.js 
 
 GeoJsApp.js is a proxy server with cors
