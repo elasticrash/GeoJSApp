@@ -8,7 +8,7 @@ app.use(function(req, res, next) {
     next();
 });
 app.use('/', function(req, res) {
-    var url = "http://144.76.39.165:8082/geoserver/ELPHO" + req.url;
+    var url = "http://XXX.XX.XX.XXX:8082/geoserver/ELPHO" + req.url;
     req.pipe(request(url)).pipe(res);
 });
 
