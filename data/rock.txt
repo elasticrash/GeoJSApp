@@ -1,0 +1,5 @@
+Name	Type	X	Y	Z	Date	Time	Recorded by	Rock name	Image
+R1	Rock	460687.9	332158.5	280	02/01/2012	08:30:00	Gary	Limestone	LIMESTONE1.jpg
+R2	Rock	460964.3	331467.6	285	03/01/2012	12:05:00	Bob	Limestone	LIMESTONE2.jpg
+R3	Rock	462866.9	328927.2	235	04/01/2012	13:02:00	Trevor	Sandstone	SANDSTONE1.jpg
+R4	Rock	461878.4	329352.3	265	05/01/2012	15:21:00	Brian	Sandstone	SANDSTONE2.jpg

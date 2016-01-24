@@ -1,0 +1,5 @@
+Name	Type	X	Y	Z	Date	Time	Recorded by	Drilled depth (m)
+B1	Borehole	460650.7	331169.9	245	02/01/2012	13:24:00	Bob	26.5
+B2	Borehole	461352.2	331510.1	275	03/01/2012	10:17:00	Brian	21.25
+B3	Borehole	462627.7	330643.8	235	04/01/2012	15:22:00	Gary	15.75
+B4	Borehole	462287.6	330537.5	240	05/01/2012	08:36:00	Trevor	29.5

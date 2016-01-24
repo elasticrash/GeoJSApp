@@ -1,0 +1,5 @@
+Name	Type	Latitude (WGS84)	Longitude (WGS84)	Z	Date	Time	Recorded by	Species	Image
+F1	Fossil	52.87206166	-1.075820543	260	02/01/2012	10:07:00	Trevor	Trilobite	TRILOBITE.jpg
+F2	Fossil	52.87380503	-1.072624763	265	03/01/2012	19:08:00	Gary	Gastropod	GASTROPOD.jpg
+F3	Fossil	52.87847084	-1.089029384	255	04/01/2012	17:28:00	Brian	Bryozoans	BRYOZOANS.jpg
+F4	Fossil	52.87775056	-1.088650712	230	05/01/2012	16:04:00	Bob	Brachiopod	BRACHIOPOD.jpg
